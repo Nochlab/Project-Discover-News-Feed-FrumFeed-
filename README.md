@@ -1,3 +1,12 @@
+<img width="1080" height="2340" alt="Screenshot_20260928_221520_FrumFeed" src="https://github.com/user-attachments/assets/ef35cb72-1241-48d1-8312-b863707e7c2f" />
+<img width="1080" height="2340" alt="Screenshot_20260928_221509_FrumFeed" src="https://github.com/user-attachments/assets/ce06c77f-afa0-4d02-a6f0-e01c5a652635" />
+<img width="1080" height="2340" alt="Screenshot_20260928_221500_FrumFeed" src="https://github.com/user-attachments/assets/86c1e110-1cd0-439e-a7b5-7411a72df0a9" />
+<img width="1080" height="2340" alt="Screenshot_20260928_221444_FrumFeed" src="https://github.com/user-attachments/assets/7f4118f2-2785-4c06-9b92-58f12432d5b2" />
+<img width="1080" height="2340" alt="Screenshot_20260928_221427_FrumFeed" src="https://github.com/user-attachments/assets/3c10e4f6-1670-45db-933b-1d6b8a60a654" />
+<img width="1080" height="2340" alt="Screenshot_20260928_221423_FrumFeed" src="https://github.com/user-attachments/assets/16598af9-cbf2-4c15-b687-63b947f5b7cb" />
+<img width="1080" height="2340" alt="Screenshot_20260928_221416_FrumFeed" src="https://github.com/user-attachments/assets/f2f6e5a3-dcd6-479f-99a4-8ea0f27e52dc" />
+<img width="1080" height="2340" alt="Screenshot_20260928_221545_FrumFeed" src="https://github.com/user-attachments/assets/9f9d255d-9bb6-43d2-8a92-69a7d4a1c245" />
+<img width="1080" height="2340" alt="Screenshot_20260928_221525_FrumFeed" src="https://github.com/user-attachments/assets/d3dfd69b-5dff-4344-b2c2-8127b79fb83c" />
 # Project-Discover-News-Feed-FrumFeed-
 All news feeds in one!
 Discover (Frum Feed)
